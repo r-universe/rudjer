@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "RCBR"]
 	path = RCBR
 	url = https://github.com/cran/RCBR
-	shallow = true
-	registered = true
 [submodule "REBayes"]
 	path = REBayes
 	url = https://github.com/cran/REBayes
-	shallow = true
-	registered = true
 [submodule "SparseM"]
 	path = SparseM
 	url = https://github.com/cran/SparseM
-	shallow = true
-	registered = true
